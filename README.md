@@ -1,7 +1,18 @@
 <p align="center"><img width="1280" height="107" alt="fight act item spare defend magic" src="https://github.com/user-attachments/assets/d20607a2-e67d-451a-b0e2-6ab54a422e27">
-<p align
 
-<p><small>this is still a wip, im not great at coding lol</small></p>
+
+<table border="0" align="center">
+    <tr align="center"></tr>
+      <th>‎‎
+
+  <p align="left"> $\large\color{#00AEEF}{{*have patience...}}$ <br>
+  <p align="left"> $\normalsize\color{#00AEEF}{{🩵*ummmmmmm}}$ <br>
+  <p align="left"> $\normalsize\color{#00AEEF}{{🩵*how do i get home?}}$
+
+  </th>
+  </table>
+
+<p>this is still a wip, im not great at coding lol</p>
 <h3>a little about me hehe</h3>
 <p>My name is BookCat24, or Cat for short (obviously not my real name)<br/>
 pronouns: she/her or they/them, depends what im feeling at times<br/>
@@ -14,12 +25,35 @@ pronouns: she/her or they/them, depends what im feeling at times<br/>
 <img height="75" alt="yellow" src="https://github.com/user-attachments/assets/6e6a95e2-9c3f-479e-8935-754a276b4e27" />
 <img height="75" alt="green tis arrow" src="https://github.com/user-attachments/assets/cb9b1e76-dac9-4c4d-8ac3-170b35d6c6b2">
 <img height="75" alt="orange" src="https://github.com/user-attachments/assets/cc0cbef1-0961-4fb3-a87a-bff6ecf1891e">
-
-
-
 </p>
 
+
+
 <p>pls check my <a href="https://bookcat24.straw.page/" rel="nofollow">strawpage</a> if you are from ponytown</p>
+
+
+<p align=center>
+<img width="320" alt="bisexual" src="https://github.com/user-attachments/assets/9aa1e79f-7ee2-42e1-8026-9a2fdf0ca4cf" />
+<img width="320" alt="demigirl" src="https://github.com/user-attachments/assets/b7ded265-1df6-4def-87aa-2a5d4ea0d612" />
+<img width="320" alt="miku" src="https://github.com/user-attachments/assets/41f79ba1-a616-4cd0-9827-c1880c677383" />
+</p>
+
+
+<p>I have a <i>loooooooooot</i> of fandoms, hehe heres a list</p>
+
+<p><h3>main fandoms:</h3></p>
+<p>• deltarune & undertale<br/>
+• doki doki literature club<br/>
+• cookie run kingdom<br/>
+• chiikawa<br/>
+• percy jackson + the other series hehe<br/>
+• the amazing digital circus<br/>
+• murder drones<br/>
+• vocaloid<br/>
+• the apothecary diaries<br/>
+• legend of zelda<br/>
+• stardew valley<br/>
+• and im still gaining more hehe/// hehehe/// he</p>
 
 
 <p align=center>
@@ -35,26 +69,11 @@ pronouns: she/her or they/them, depends what im feeling at times<br/>
 
   <img height="107" alt="YahaUsagi" src="https://github.com/user-attachments/assets/7b9e5368-b850-45bb-b552-0eeffc9eb369">
 </p>
-<p>I have a <i>loooooooooot</i> of fandoms, hehe heres a list</p>
-<p><h3>main fandoms:</h3></p>
-<p>• deltarune & undertale<br/>
-• doki doki literature club<br/>
-• cookie run kingdom<br/>
-• chiikawa<br/>
-• percy jackson + the other series hehe<br/>
-• the amazing digital circus<br/>
-• murder drones<br/>
-• vocaloid<br/>
-• the apothecary diaries<br/>
-• legend of zelda<br/>
-• stardew valley<br/>
-• and im still gaining more hehe/// hehehe/// he</p>
+
+
+
 
 <!--
-**BookCat24/BookCat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
