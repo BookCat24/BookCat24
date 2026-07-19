@@ -8,12 +8,12 @@ pronouns: she/her or they/them, depends what im feeling at times<br/>
 </p>
 
 <p align=center>
-<img height="125" alt="aqua" src="https://github.com/user-attachments/assets/fee425f3-e0e8-4ee1-b250-465b6edcdb8e">
-<img height="125" alt="seth" src="https://github.com/user-attachments/assets/da96b0d5-0b55-4183-bf40-40523b7b8e1a">
-<img height="125" alt="blue" src="https://github.com/user-attachments/assets/c074fcbb-4fa8-4add-a098-a64dfceb9e82">
-<img height="125" alt="yellow" src="https://github.com/user-attachments/assets/6e6a95e2-9c3f-479e-8935-754a276b4e27" />
-<img height="125" alt="green tis arrow" src="https://github.com/user-attachments/assets/cb9b1e76-dac9-4c4d-8ac3-170b35d6c6b2">
-<img height="125" alt="orange" src="https://github.com/user-attachments/assets/cc0cbef1-0961-4fb3-a87a-bff6ecf1891e">
+<img height="75" alt="aqua" src="https://github.com/user-attachments/assets/fee425f3-e0e8-4ee1-b250-465b6edcdb8e">
+<img height="75" alt="seth" src="https://github.com/user-attachments/assets/da96b0d5-0b55-4183-bf40-40523b7b8e1a">
+<img height="75" alt="blue" src="https://github.com/user-attachments/assets/c074fcbb-4fa8-4add-a098-a64dfceb9e82">
+<img height="75" alt="yellow" src="https://github.com/user-attachments/assets/6e6a95e2-9c3f-479e-8935-754a276b4e27" />
+<img height="75" alt="green tis arrow" src="https://github.com/user-attachments/assets/cb9b1e76-dac9-4c4d-8ac3-170b35d6c6b2">
+<img height="75" alt="orange" src="https://github.com/user-attachments/assets/cc0cbef1-0961-4fb3-a87a-bff6ecf1891e">
 
 
 
