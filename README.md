@@ -12,6 +12,9 @@
   </th>
   </table>
 
+
+
+
 <p>this is still a wip, im not great at coding lol</p>
 <h3>a little about me hehe</h3>
 <p>My name is BookCat24, or Cat for short (obviously not my real name). My fav colour is blue and uh idk what else to add<br>
@@ -42,17 +45,18 @@ pronouns: she/her or they/them, depends what im feeling at times<br>
 <p>I have a <i>loooooooooot</i> of fandoms, hehe heres a list</p>
 
 <p><h3>main fandoms:</h3></p>
-<p>• deltarune & undertale<br/>
-• doki doki literature club<br/>
-• cookie run kingdom<br/>
-• chiikawa<br/>
-• percy jackson + the other series hehe<br/>
-• the amazing digital circus<br/>
-• murder drones<br/>
-• vocaloid<br/>
-• the apothecary diaries<br/>
-• legend of zelda<br/>
-• stardew valley<br/>
+<p>• deltarune & undertale<br>
+• doki doki literature club<br>
+• cookie run kingdom<br>
+• chiikawa<br>
+• percy jackson + the other series hehe<br>
+• the amazing digital circus<br>
+• murder drones<br>
+• vocaloid<br>
+• the apothecary diaries<br>
+• legend of zelda<br>
+• stardew valley<br>
+• hollow knight & hk silksong<br>
 • and im still gaining more hehe/// hehehe/// he</p>
 
 
