@@ -14,8 +14,8 @@
 
 <p>this is still a wip, im not great at coding lol</p>
 <h3>a little about me hehe</h3>
-<p>My name is BookCat24, or Cat for short (obviously not my real name)<br/>
-pronouns: she/her or they/them, depends what im feeling at times<br/>
+<p>My name is BookCat24, or Cat for short (obviously not my real name). My fav colour is blue and uh idk what else to add<br>
+pronouns: she/her or they/them, depends what im feeling at times<br>
 </p>
 
 <p align=center>
@@ -33,9 +33,9 @@ pronouns: she/her or they/them, depends what im feeling at times<br/>
 
 
 <p align=center>
-<img width="320" alt="bisexual" src="https://github.com/user-attachments/assets/9aa1e79f-7ee2-42e1-8026-9a2fdf0ca4cf" />
-<img width="320" alt="demigirl" src="https://github.com/user-attachments/assets/b7ded265-1df6-4def-87aa-2a5d4ea0d612" />
-<img width="320" alt="miku" src="https://github.com/user-attachments/assets/41f79ba1-a616-4cd0-9827-c1880c677383" />
+<img width="300" alt="bisexual" src="https://github.com/user-attachments/assets/9aa1e79f-7ee2-42e1-8026-9a2fdf0ca4cf" />
+<img width="300" alt="demigirl" src="https://github.com/user-attachments/assets/b7ded265-1df6-4def-87aa-2a5d4ea0d612" />
+<img width="300" alt="miku" src="https://github.com/user-attachments/assets/41f79ba1-a616-4cd0-9827-c1880c677383" />
 </p>
 
 
@@ -69,17 +69,3 @@ pronouns: she/her or they/them, depends what im feeling at times<br/>
 
   <img height="107" alt="YahaUsagi" src="https://github.com/user-attachments/assets/7b9e5368-b850-45bb-b552-0eeffc9eb369">
 </p>
-
-
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
