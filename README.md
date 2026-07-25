@@ -1,4 +1,5 @@
-<div align="center"><img width="1280" height="107" alt="fight act item spare defend magic" src="https://github.com/user-attachments/assets/d20607a2-e67d-451a-b0e2-6ab54a422e27"></div>
+<div align="center">
+<img width="1280" height="107" alt="fight act item spare defend magic" src="https://github.com/user-attachments/assets/d20607a2-e67d-451a-b0e2-6ab54a422e27"></div>
 
 
 <table border="0" align="center">
@@ -23,6 +24,9 @@
 
 <p>pls check my <a href="https://bookcat24.straw.page/" rel="nofollow">strawpage</a> if you are from ponytown</p>
 
+
+
+
 <p>I have a <i>loooooooooot</i> of fandoms, hehe heres a list</p>
 
 <p><h3>main fandoms:</h3></p>
@@ -44,6 +48,7 @@
 <div align=center>
   <img height="107" alt="ralseeee" src="https://github.com/user-attachments/assets/0544a059-2315-43fc-a850-c518952dd33a">
   <img height="107" alt="friendstamp" src="https://github.com/user-attachments/assets/145341ca-e344-4304-ad51-4d31a2637ea5">
+<img height="107" alt="aqua" src="https://github.com/user-attachments/assets/7f962df5-cea9-49bb-ae5e-ec854af5c166" />
 
   <img height="107" alt="pjsekai-project-sekai-rin" src="https://github.com/user-attachments/assets/213d171b-21c9-48fb-bd0f-e0e6f0de09be">
 
