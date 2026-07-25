@@ -12,15 +12,6 @@
   </th>
   </table>
 
-
-
-
-<p>this is still a wip, im not great at coding lol</p>
-<h3>a little about me hehe</h3>
-<p>My name is BookCat24, or Cat for short (obviously not my real name). My fav colour is blue and uh idk what else to add<br>
-pronouns: she/her or they/them, depends what im feeling at times<br>
-</p>
-
 <div align=center>
 <img height="75" alt="aqua" src="https://github.com/user-attachments/assets/fee425f3-e0e8-4ee1-b250-465b6edcdb8e">
 <img height="75" alt="seth" src="https://github.com/user-attachments/assets/da96b0d5-0b55-4183-bf40-40523b7b8e1a">
@@ -30,10 +21,7 @@ pronouns: she/her or they/them, depends what im feeling at times<br>
 <img height="75" alt="orange" src="https://github.com/user-attachments/assets/cc0cbef1-0961-4fb3-a87a-bff6ecf1891e">
 </div>
 
-
-
 <p>pls check my <a href="https://bookcat24.straw.page/" rel="nofollow">strawpage</a> if you are from ponytown</p>
-
 
 <div align=center>
 <img width="300" alt="bisexual" src="https://github.com/user-attachments/assets/9aa1e79f-7ee2-42e1-8026-9a2fdf0ca4cf" />
