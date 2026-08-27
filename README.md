@@ -42,6 +42,10 @@
 • legend of zelda<br>
 • stardew valley<br>
 • hollow knight & hk silksong<br>
+• saiki k<br>
+• komi can't communicate<br>
+• alien stage & zombie stage<br>
+• spy x familyyyyyy<br>
 • and im still gaining more hehe/// hehehe/// he</p>
 
 
