@@ -22,7 +22,7 @@
 <img height="75" alt="orange" src="https://github.com/user-attachments/assets/cc0cbef1-0961-4fb3-a87a-bff6ecf1891e">
 </div>
 
-<p>pls check my <a href="https://bookcat24.straw.page/" rel="nofollow">strawpage</a> if you are from ponytown</p>
+<p>pls check my <a href="https://bookcat24.straw.page/ponytown/" rel="nofollow">strawpage</a> if you are from ponytown</p>
 
 
 
