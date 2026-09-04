@@ -65,4 +65,4 @@
 </div>
 
 <p><div align="center"><a href="https://dessdreamholiday.straw.page/" rel="nofollow"><img height="25" alt="dessdreamholiday" src="https://github.com/user-attachments/assets/1e2dd67b-58ab-4d74-a598-0bb4e14a5bbe" />
-</a></div></p>
+</a> "not for the fainthearted!" -dessguitar.60125</div>
