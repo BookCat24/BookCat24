@@ -50,18 +50,18 @@
 
 
 <div align=center>
-  <img height="107" alt="ralseeee" src="https://github.com/user-attachments/assets/0544a059-2315-43fc-a850-c518952dd33a">
-  <img height="107" alt="friendstamp" src="https://github.com/user-attachments/assets/145341ca-e344-4304-ad51-4d31a2637ea5">
-<img height="107" alt="aqua" src="https://github.com/user-attachments/assets/7f962df5-cea9-49bb-ae5e-ec854af5c166" />
+  <img height="50" alt="ralseeee" src="https://github.com/user-attachments/assets/0544a059-2315-43fc-a850-c518952dd33a">
+  <img height="50" alt="friendstamp" src="https://github.com/user-attachments/assets/145341ca-e344-4304-ad51-4d31a2637ea5">
+<img height="50" alt="aqua" src="https://github.com/user-attachments/assets/7f962df5-cea9-49bb-ae5e-ec854af5c166" />
 
-  <img height="107" alt="pjsekai-project-sekai-rin" src="https://github.com/user-attachments/assets/213d171b-21c9-48fb-bd0f-e0e6f0de09be">
+  <img height="50" alt="pjsekai-project-sekai-rin" src="https://github.com/user-attachments/assets/213d171b-21c9-48fb-bd0f-e0e6f0de09be">
 
-  <img height="107" alt="eternal-sugar-cookie" src="https://github.com/user-attachments/assets/dd1fa104-f4a8-4a8b-b1a1-967d03eeb98a">
-  <img height="107" alt="pastry-cookie-pat" src="https://github.com/user-attachments/assets/9b0b8674-4ffe-44c9-a8e8-0f4e0d6c15fa">
+  <img height="50" alt="eternal-sugar-cookie" src="https://github.com/user-attachments/assets/dd1fa104-f4a8-4a8b-b1a1-967d03eeb98a">
+  <img height="50" alt="pastry-cookie-pat" src="https://github.com/user-attachments/assets/9b0b8674-4ffe-44c9-a8e8-0f4e0d6c15fa">
 
-  <img height="107" alt="gaggle" src="https://github.com/user-attachments/assets/9dd9ac3e-9dc0-4b47-bd76-b735aeeba172" >
+  <img height="50" alt="gaggle" src="https://github.com/user-attachments/assets/9dd9ac3e-9dc0-4b47-bd76-b735aeeba172" >
 
-  <img height="107" alt="YahaUsagi" src="https://github.com/user-attachments/assets/7b9e5368-b850-45bb-b552-0eeffc9eb369">
+  <img height="50" alt="YahaUsagi" src="https://github.com/user-attachments/assets/7b9e5368-b850-45bb-b552-0eeffc9eb369">
 </div>
 
 <p><div align="center"><a href="https://dessdreamholiday.straw.page/" rel="nofollow"><img height="25" alt="dessdreamholiday" src="https://github.com/user-attachments/assets/1e2dd67b-58ab-4d74-a598-0bb4e14a5bbe"/> "not for the fainthearted!" -dessguitar.60125
