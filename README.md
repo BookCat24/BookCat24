@@ -63,3 +63,6 @@
 
   <img height="107" alt="YahaUsagi" src="https://github.com/user-attachments/assets/7b9e5368-b850-45bb-b552-0eeffc9eb369">
 </div>
+
+<p><div align="center"><a href="https://dessdreamholiday.straw.page/" rel="nofollow"><img height="25" alt="dessdreamholiday" src="https://github.com/user-attachments/assets/1e2dd67b-58ab-4d74-a598-0bb4e14a5bbe" />
+</a></div></p>
