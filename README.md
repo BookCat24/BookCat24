@@ -52,7 +52,6 @@
 <div align=center>
   <img height="50" alt="ralseeee" src="https://github.com/user-attachments/assets/0544a059-2315-43fc-a850-c518952dd33a">
   <img height="50" alt="friendstamp" src="https://github.com/user-attachments/assets/145341ca-e344-4304-ad51-4d31a2637ea5">
-<img height="50" alt="aqua" src="https://github.com/user-attachments/assets/7f962df5-cea9-49bb-ae5e-ec854af5c166" />
 
   <img height="50" alt="pjsekai-project-sekai-rin" src="https://github.com/user-attachments/assets/213d171b-21c9-48fb-bd0f-e0e6f0de09be">
 
