@@ -1,17 +1,20 @@
 <div align="center">
 <img width="1280" height="107" alt="fight act item spare defend magic" src="https://github.com/user-attachments/assets/d20607a2-e67d-451a-b0e2-6ab54a422e27"></div>
 
+<!-- table thingy -->
 
 <table border="0" align="center">
     <tr align="center"></tr>
       <th>‎‎
 
-  <p align="left"> $\large\color{#00AEEF}{{*have patience...}}$ <br>
-  <p align="left"> $\normalsize\color{#00AEEF}{{🩵*ummmmmmm}}$ <br>
-  <p align="left"> $\normalsize\color{#00AEEF}{{🩵*how do i get home?}}$
+  <p align="left"> $\large\color{#00AEEF}{\text{*have patience...}}$ <br>
+  <p align="left"> $\color{#00AEEF}{\text{🩵*ummmmmmm}}$ <br>
+  <p align="left"> $\color{#00AEEF}{\text{🩵*how do i get home?}}$
 
   </th>
   </table>
+
+<!-- flowery piccys hehe -->
 
 <div align=center>
 <img height="75" alt="aqua" src="https://github.com/user-attachments/assets/fee425f3-e0e8-4ee1-b250-465b6edcdb8e">
@@ -22,10 +25,11 @@
 <img height="75" alt="orange" src="https://github.com/user-attachments/assets/cc0cbef1-0961-4fb3-a87a-bff6ecf1891e">
 </div>
 
+<!-- pt strawpage -->
+
 <p>pls check my <a href="https://bookcat24.straw.page/ponytown/" rel="nofollow">strawpage</a> if you are from ponytown</p>
 
-
-
+<!-- fandoms -->
 
 <p>I have a <i>loooooooooot</i> of fandoms, hehe heres a list</p>
 
@@ -48,6 +52,7 @@
 • spy x familyyyyyy<br>
 • and im still gaining more hehe/// hehehe/// he</p>
 
+<!-- rando pics at the bottom lol-->
 
 <div align=center>
   <img height="50" alt="ralseeee" src="https://github.com/user-attachments/assets/0544a059-2315-43fc-a850-c518952dd33a">
@@ -62,6 +67,8 @@
 
   <img height="50" alt="YahaUsagi" src="https://github.com/user-attachments/assets/7b9e5368-b850-45bb-b552-0eeffc9eb369">
 </div>
+
+<!-- dess dream holiday -->
 
 <p><div align="center"><a href="https://dessdreamholiday.straw.page/" rel="nofollow"><img height="25" alt="dessdreamholiday" src="https://github.com/user-attachments/assets/1e2dd67b-58ab-4d74-a598-0bb4e14a5bbe"/> "not for the fainthearted!" -dessguitar.60125
 </a></div>
