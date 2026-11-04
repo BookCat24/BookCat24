@@ -3,3 +3,7 @@
 <img width="300" alt="demigirl" src="https://github.com/user-attachments/assets/b7ded265-1df6-4def-87aa-2a5d4ea0d612" />
 <img width="300" alt="miku" src="https://github.com/user-attachments/assets/41f79ba1-a616-4cd0-9827-c1880c677383" />
 </div>
+
+<p align="middle"> $\color{#00AEEF}{\text{eyah}}$ </p>
+<p> $\color{blue}{\text{una}}$ </p>
+<p> $\color{#00ff00}{\text{This text is green using a hex code}}$ </p>
